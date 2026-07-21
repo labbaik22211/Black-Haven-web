@@ -19,9 +19,8 @@ export default function Home() {
           <span className="inline-block mt-2 font-bold text-bhBlue text-lg">100 tk / month</span>
         </div>
         <a 
-          href="https://tebex.io" 
-          target="_blank" 
-          rel="noreferrer" 
+          href="/store"
+          
           className="bg-bhGreen hover:bg-green-600 text-white font-bold py-2 px-6 rounded transition"
         >
           Subscribe Now
