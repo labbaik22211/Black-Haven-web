@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: linear-gradient(180deg, #e8f8ff 0%, #eafaf1 100%);
+  min-height: 100vh;
+}
+
+.header-shadow {
+  box-shadow: 0 6px 24px rgba(0, 0, 0, 0.15);
+}
